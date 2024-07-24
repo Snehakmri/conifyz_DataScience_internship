@@ -1,0 +1,24 @@
+PS C:\Users\sneha\Desktop\conify1_python> python -u "c:\Users\sneha\Desktop\conify1_python\task3_level1.py"
+Distribution of restaurants across different cities:
+City
+New Delhi    5473
+Gurgaon      1118
+Noida        1080
+Faridabad     251
+Ghaziabad      25
+Name: count, dtype: int64
+
+Distribution of restaurants across different countries:
+Country Code
+1      8652
+216     434
+215      80
+30       60
+189      60
+Name: count, dtype: int64
+Correlation matrix between restaurant's location and its rating:
+                  Latitude  Longitude  Aggregate rating
+Latitude          1.000000   0.043207          0.000516
+Longitude         0.043207   1.000000         -0.116818
+Aggregate rating  0.000516  -0.116818          1.000000
+PS C:\Users\sneha\Desktop\conify1_python> 

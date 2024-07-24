@@ -1,0 +1,16 @@
+Model: Linear Regression
+  MAE: 4760709472.28037
+  RMSE: 29214958009.75219
+  R²: -3.7270819645547794e+20
+
+Model: Decision Tree
+  MAE: 0.27039636808101974
+  RMSE: 0.4225069719175043
+  R²: 0.9220481959903921
+
+Model: Random Forest
+  MAE: 0.21852353306288613
+  RMSE: 0.33367776526118925
+  R²: 0.9513802247084951
+
+PS C:\Users\sneha\Desktop\conify1_python> python -u "c:\Users\sneha\Desktop\conify1_python\task1_level3.py"

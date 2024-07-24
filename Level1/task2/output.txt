@@ -1,0 +1,35 @@
+PS C:\Users\sneha\Desktop\conify1_python> python -u "c:\Users\sneha\Desktop\conify1_python\task2_level1.py"
+                        mean     median     std_dev
+Longitude          64.126574  77.191964   41.467058
+Latitude           25.854381  28.570469   11.007935
+Price range         1.804837   2.000000    0.905609
+Aggregate rating    2.666370   3.200000    1.516378
+Votes             156.909748  31.000000  430.169145
+Top 10 Cuisines:
+ Cuisines
+North Indian                      936
+North Indian, Chinese             511
+Chinese                           354
+Fast Food                         354
+North Indian, Mughlai             334
+Cafe                              299
+Bakery                            218
+North Indian, Mughlai, Chinese    197
+Bakery, Desserts                  170
+Street Food                       149
+Name: count, dtype: int64
+
+Top 10 Cities:
+ City
+New Delhi       5473
+Gurgaon         1118
+Noida           1080
+Faridabad        251
+Ghaziabad         25
+Bhubaneshwar      21
+Lucknow           21
+Ahmedabad         21
+Amritsar          21
+Guwahati          21
+Name: count, dtype: int64
+PS C:\Users\sneha\Desktop\conify1_python> 
